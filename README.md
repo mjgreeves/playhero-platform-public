@@ -1,14 +1,3 @@
-Absolutely — here is a **single-shot, copy-ready** `README.md` file for your **PlayHero Platform** public repo.
-
-This version is polished, minimal, founder-grade, and designed to impress recruiters, founders, and engineering leaders immediately.
-
-Just **copy/paste the entire block below** into your `playhero-platform-public` repo.
-
----
-
-# ✅ **PlayHero Platform — README.md (Single-Shot Copy)**
-
-````md
 # 🧠 PlayHero Platform — AI-Native Growth Operating System
 
 **PlayHero** is an AI-powered growth operating system built for modern SaaS teams.  
@@ -106,7 +95,7 @@ playhero-platform
 
 * **WebUX** — [https://www.webux.ai](https://www.webux.ai)
 * **PlayHero** — [https://playhero.ai](https://playhero.ai)
-* **SiteHero (Beta)** — [https://sitehero.app](https://sitehero.app)
+* **SiteHero (Beta)** — [https://sitehero.ai](https://sitehero.ai)
 
 ---
 
